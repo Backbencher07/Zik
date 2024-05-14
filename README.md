@@ -1,2 +1,2 @@
 # Zik
-We are coding hub
+click open
